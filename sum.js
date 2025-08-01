@@ -16,3 +16,12 @@ while (num1<=30) {
     
     
 }
+let num2 = 1;
+while (num2<10) {
+    if(num % 2 === 0){
+        console.log('even number', num);
+        
+    }
+    num2++
+    
+}

@@ -12,4 +12,6 @@ let num2 = 11;
 while (num2<=20) {
     console.log(num2);
     num2= num2 + 1
+    console.log(num2);
+    num2++
 }
